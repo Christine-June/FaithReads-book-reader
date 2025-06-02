@@ -1,4 +1,3 @@
-# seed.py
 from models import Reader, Book, BookEntry
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
